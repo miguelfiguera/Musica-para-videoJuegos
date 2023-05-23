@@ -24,7 +24,7 @@ Herramientas no musicales:
 3. Encantamientos
 4. Curacion.
 5. Desenvainar las armas.
-6. Morir.
+6. Morir. ---> Burra con Dies Irae tema en llanero.
 
 ### Armonia:
 Funcional y no Funcional.
