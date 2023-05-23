@@ -8,6 +8,8 @@ Ideas generales:
 2. Joropo Oriental
 3. AfroVenezolano:
 4. Vals
+5. calipso
+6. cantos pume/yekwana/warao/carinha
 
 ### Efectos sonoros:
 Herramientas no musicales:
