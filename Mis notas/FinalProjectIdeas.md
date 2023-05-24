@@ -8,7 +8,7 @@ Ideas generales:
 2. Joropo Oriental
 3. AfroVenezolano:
 4. Vals
-5. calipso
+5. calipso --> melodia del circo oscuro y claro.
 6. cantos pume/yekwana/warao/carinha
 
 ### Efectos sonoros:
