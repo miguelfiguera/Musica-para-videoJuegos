@@ -10,6 +10,7 @@ Ideas generales:
 4. Vals
 5. calipso --> melodia del circo oscuro y claro.
 6. cantos pume/yekwana/warao/carinha
+7. Fulia curiepe (V | I ) suele ser la progresion permanente. Un coro con tambor debajo.
 
 ### Efectos sonoros:
 Herramientas no musicales:
@@ -55,3 +56,5 @@ Protagonista si se vuelve malo...
 Protagonista Neutral...
 
 Protagonista bueno...
+
+Peleas... si hay dos joropos en metricas diferentes, que se pasen de uno a otro usando compases de transicion.
