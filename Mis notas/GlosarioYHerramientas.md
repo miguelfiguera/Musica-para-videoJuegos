@@ -68,6 +68,54 @@ Movimiento de voces 5 a 6 a b7 a 6 de nuevo en vamp.
 
 ![Alt text](Capturas%20de%20pantalla/vamp.png)
 
+
+
+
+## Locrio:
+
+notas caracteristicas: b2 b5. Principalmente la b5 porque es el unico modo que la tiene.
+
+1. Uso en riff dentro de doom.
+
+ ![Alt text](Capturas%20de%20pantalla/locrioenDoom.png)
+
+
+![Alt text](Capturas%20de%20pantalla/locrian%20riff.png)
+
+Un detalle importante en estos ejemplos es que la musica esta hecha con instrumentos que llevan distorsion (guitarras electricas) lo que permite generar un sonido pesado que acompañe las caracteristicas inestables/disonantes del modo.
+
+Variar los voicings del acorde es una herramienta para generar la sensacion de 'movimiento' sin salirte del modo ni pasar a otro acorde.
+
+2. Construccion melodica sobre bajo pedal en locrio para generar atmosfera y ambientacion con este modo.
+
+ ![Alt text](Capturas%20de%20pantalla/Construccion%20melodica%20sobre%20locrio%20con%20bajo%20pedal.png)
+
+Riff de bajo en locrio.
+![Alt text](Capturas%20de%20pantalla/bajoEnLocrio1b5.png)
+
+3. Tension resolucion a traves de resoluciones melodicas en el modo locrio:
+
+Se construye sobre un E-7(b5) sus4 b9 (si rarirismo). Y aparte trabaja a una distancia de dos octavas como minimo.
+
+![Alt text](Capturas%20de%20pantalla/Tension%20relajacion%20con%20locrio%20a%20traves%20de%20resolucion%20melodica.png)
+
+
+# Instrumentacion
+
+El timbre es un recurso musical importante. Dependiendo del timbre la pieza evocara otros elementos del imaginario del oyente, que normalmente se corresponde con un imaginario general (inconsciente colectivo diria jung).
+
+De esta manera propongo cinco zonas (hasta ahora) que evocar:
+
+## Dulzura, ternura y magia delicada.
+
+## Fuerza, poder y magia destructiva.
+
+## Gloria, honor y poder.
+
+# Recursos
+Este ultimo es mas bien un compendio de notas.
+----
+
 # Fuentes:
 ## Dorico:
 [The DORIAN Mode Fells MYSTERIOUS](https://www.youtube.com/watch?v=SbRD3tPipNw&)
