@@ -162,6 +162,6 @@ Este ultimo es mas bien un compendio de notas.
 ## Dorico:
 [The DORIAN Mode Fells MYSTERIOUS](https://www.youtube.com/watch?v=SbRD3tPipNw&)
 
-## Locrio:
+## Frigio:
 
 [the PHRYGIAN MODE feels THREATENING](https://www.youtube.com/watch?v=tbRdHktBv58)
