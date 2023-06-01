@@ -109,6 +109,10 @@ Para generar un movimiento brillante se puede usar el bIImaj7 (o su triada bII).
 ![Alt text](Capturas%20de%20pantalla/Captura%20de%20pantalla%20de%202023-05-31%2023-56-17.png)
 
 ![Alt text](Capturas%20de%20pantalla/Otro%20pokemon%20battle%20theme.png)
+
+## Lidio:
+
+
 ## Locrio:
 
 notas caracteristicas: b2 b5. Principalmente la b5 porque es el unico modo que la tiene.
