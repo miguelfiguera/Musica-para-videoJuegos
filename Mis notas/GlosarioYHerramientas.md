@@ -23,7 +23,7 @@ Modos de uso:
 
 Tambien funciona con la novena.
 
-2. Resolucion a la quinta, elimina lo misterioso y da la sensacion de respuesta.
+2. Resolucion a la quinta, elimina lo misterioso y da la sensacion de respuesta (melodia).
 
 ![Alt text](Capturas%20de%20pantalla/ResolviendoLaSextaAlaQuinta.png)
 
@@ -68,9 +68,47 @@ Movimiento de voces 5 a 6 a b7 a 6 de nuevo en vamp.
 
 ![Alt text](Capturas%20de%20pantalla/vamp.png)
 
+## Frigio:
+
+Nota caracteristica: b2.
 
 
+Shark theme, usar 1 y b2 de forma continua evoca la sensacion de amenaza.
 
+
+Uso de una escala frigia en chrono trigger muestra como la 2b quiere resolver hacia la tonica.  El uso que le dan a la sonoridad frigia es de amenaza, latente cuando es suave y explicita en los upbeat.
+
+![Alt text](Capturas%20de%20pantalla/crono%20trigger%20frigian%20battle.png)
+
+![Alt text](Capturas%20de%20pantalla/Final%20fantasy%20Frigian%20sound.png)
+
+![Alt text](Capturas%20de%20pantalla/zombini%20frigian%20sound.png)
+
+Una opcion para generar el sonido frigio dentro de la armonia es colocar la b9 sobre el acorde. Pero la mejor es hacer un Sus4 b9
+que evoca la misma sonoridad y es ligeramente mas estable porque no hay un choque entre la quinta y la b2.
+
+![Alt text](Capturas%20de%20pantalla/metroidSus4b9.png)
+
+![Alt text](Capturas%20de%20pantalla/ninokuniFrigian.png)
+
+![Alt text](Capturas%20de%20pantalla/Pokemon%20Frigian.png)
+
+Otra opcion es usar el bVII- en primera inversion.
+
+![Alt text](Capturas%20de%20pantalla/bVII-%20en%20primera%20inversion%20para%20soportar%20la%20b9%20del%20modo.png)
+
+
+![Alt text](Capturas%20de%20pantalla/ambas%20opciones.png)
+
+
+Para generar un movimiento brillante se puede usar el bIImaj7 (o su triada bII).
+
+![Alt text](Capturas%20de%20pantalla/uso%20del%20bII%20en%20el%20frigio.png)
+
+
+![Alt text](Capturas%20de%20pantalla/Captura%20de%20pantalla%20de%202023-05-31%2023-56-17.png)
+
+![Alt text](Capturas%20de%20pantalla/Otro%20pokemon%20battle%20theme.png)
 ## Locrio:
 
 notas caracteristicas: b2 b5. Principalmente la b5 porque es el unico modo que la tiene.
@@ -119,3 +157,7 @@ Este ultimo es mas bien un compendio de notas.
 # Fuentes:
 ## Dorico:
 [The DORIAN Mode Fells MYSTERIOUS](https://www.youtube.com/watch?v=SbRD3tPipNw&)
+
+## Locrio:
+
+[the PHRYGIAN MODE feels THREATENING](https://www.youtube.com/watch?v=tbRdHktBv58)
