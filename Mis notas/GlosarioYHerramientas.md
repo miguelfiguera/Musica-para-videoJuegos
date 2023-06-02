@@ -111,6 +111,48 @@ Para generar un movimiento brillante se puede usar el bIImaj7 (o su triada bII).
 ![Alt text](Capturas%20de%20pantalla/Otro%20pokemon%20battle%20theme.png)
 
 ## Lidio:
+Nota caracteristica es: #11 (#4)
+
+Muchas de las formas contenidas en estos ejemplos se pueden usar con otros modos. Indicare cual mientras voy escribiendo. (Pizza metaphore)
+
+1. 'Crust Mode':  Usar lidio como si fuese una tonalidad y centrar la progresion armonica con el acorde lidio como centro tonal.
+
+Pudieses hacer una progresion que nunca use la 4 y solo la #4
+
+![Alt text](Capturas%20de%20pantalla/usar%20lidio%20como%20si%20fuese%20una%20tonalidad.png)
+
+
+![Alt text](Capturas%20de%20pantalla/progresion%20lidia%20con%20#4.png)
+
+2. 'Cheese Mode':
+Colocar la nota #4 sobre el voicing del acorde. Como la septima esta a una quinta justa de la #11 la disonancia del acorde se estabiliza.
+
+Tambien se puede usar la triada que contenga la #11 del modo sobre la nota que es centro tonal.
+
+![Alt text](Capturas%20de%20pantalla/acorde%20lidio.png)
+
+El segundo acorde puede verse como Dm6 | F6#11 | G(9)/F pero sin el G.
+
+
+3. 'Pepperoni Mode':
+El metodo final es simplemente aplicarlo de vez en cuando como recurso a traves de la pieza, sin que este permanentemente presente.
+
+
+4. Nota pedal para mantener el oido anclado a la 'tonica lidia' y un solo acorde. En caso de usar un solo acorde se debe rotar entre sus inversiones o voicings abiertos para generar alguna sensacion de movimiento.
+
+![Alt text](Capturas%20de%20pantalla/LidioProgresion.png)
+
+5. Progresiones de lidio a lidio.
+
+![Alt text](Capturas%20de%20pantalla/Progresiones%20armonicas%20a%20acordes%20lidios.png)
+
+![Alt text](Capturas%20de%20pantalla/bVII%20en%20el%20bajo%20con%20melodia%20en%20#11%20del%20bajo.png)
+
+
+Cadencia en lidio
+
+![Alt text](Capturas%20de%20pantalla/Progresion%20bien%20lidia.png)
+
 
 
 ## Locrio:
