@@ -153,6 +153,39 @@ Cadencia en lidio
 
 ![Alt text](Capturas%20de%20pantalla/Progresion%20bien%20lidia.png)
 
+## Mixolidio:
+
+Nota caracteristica: b7
+
+![Alt text](Capturas%20de%20pantalla/mixolidio.png)
+
+El modo mixolidio favorece una sensacion de ligereza (exceso de entusiasmo/casi infantil), diversion y movimiento.
+
+![Alt text](Capturas%20de%20pantalla/melodia%20sobre%20progresion%20mixolidia.png)
+
+![Alt text](Capturas%20de%20pantalla/Musica%20para%20videojuegos.png)
+
+
+![Alt text](Capturas%20de%20pantalla/pokemon%20mixolidio.png)
+
+![Alt text](Capturas%20de%20pantalla/hyrule.png)
+
+Se puede usar para generar un ambiente medieval con mucho cuidado. Puesto que la b7, fuera de su contexto puede sonar mucho a blues y llevarnos de vuelta al universo tonal.
+
+![Alt text](Capturas%20de%20pantalla/chronocross%20medieval%20theme.png)
+
+Usar la b7 en el acorde, construyendo de esta forma un dominante, suele buscar automaticamente una tonica a la cual resolver. Es un asunto delicado hacer un acorde 'mixolidio' con las notas caracteristicas del modo y quiere mucho oido y cuidado.
+
+Revisar las progresiones en el apartado de armonia modal de enric herrera.
+
+I |  bVII (Playfull music)
+
+![Alt text](Capturas%20de%20pantalla/Vamp.png)
+
+I |  V- (bittersweet)
+
+![Alt text](Capturas%20de%20pantalla/other%20vamp%20mixolidio.png)
+
 
 
 ## Locrio:
