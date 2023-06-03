@@ -153,6 +153,11 @@ Cadencia en lidio
 
 ![Alt text](Capturas%20de%20pantalla/Progresion%20bien%20lidia.png)
 
+
+Progresion lidia de rick beato:
+
+I #11 | II | VI- | V | I(#11)
+
 ## Mixolidio:
 
 Nota caracteristica: b7
