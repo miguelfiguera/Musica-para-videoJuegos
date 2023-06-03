@@ -186,6 +186,49 @@ I |  V- (bittersweet)
 
 ![Alt text](Capturas%20de%20pantalla/other%20vamp%20mixolidio.png)
 
+## Eolico:
+
+notas caracteristicas: b6 b7
+
+La musica modal tiene como objetivo generar un estado emocional especifico, algo similar a una atmosfera, por lo cual sostenerla y desarrollarla son las partes importantes, evitando romperla.
+
+![Alt text](Capturas%20de%20pantalla/eolian%20oblivion.png)
+
+
+![Alt text](Capturas%20de%20pantalla/CadenciaEolica%20I.png)
+
+
+![Alt text](Capturas%20de%20pantalla/hundirse%20en%20la%20armonia%20eolica.png)
+
+
+![Alt text](Capturas%20de%20pantalla/hundirseEolicoCompleto.png)
+
+![Alt text](Capturas%20de%20pantalla/lostChildsTwilightPrincess.png)
+
+
+
+Usar la b6 como parte del acorde evoca la sensacion triste y melancolica del eolico.
+ 
+ Melancolia eolica
+
+![Alt text](Capturas%20de%20pantalla/Captura%20de%20pantalla%20de%202023-06-03%2000-06-09.png)
+
+ ![Alt text](Capturas%20de%20pantalla/depression%20eolica.png)
+ 
+  ![Alt text](Capturas%20de%20pantalla/lostChildsTwilightPrincess.png)
+
+
+Progresiones mas up beat
+
+
+![Alt text](Capturas%20de%20pantalla/progression%20eolica%20full.png) 
+
+![Alt text](Capturas%20de%20pantalla/cadencia%20megaman.png)
+
+ ![Alt text](Capturas%20de%20pantalla/Captura%20de%20pantalla%20de%202023-06-03%2000-08-48.png)
+ 
+  ![Alt text](Capturas%20de%20pantalla/gilde%20street%20fighter%20upbeat%20theme.png)
+
 
 
 ## Locrio:
