@@ -23,3 +23,10 @@ Esto es mi recopilacion de lo aprendido, anotado y recibido en el curso con Rene
 7. Instalar Reaper en Linux [Video](https://www.youtube.com/watch?v=DN1TtpfjRI4)
 
 8. Libros de arreglos y composicion en jazz de Ted Pease.
+
+
+9. Instrumentos virtuales:
+https://plugins4free.com/instruments/
+
+
+https://www.dskmusic.com/
